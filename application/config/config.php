@@ -15,8 +15,7 @@
 |
 */
 
-//$config['base_url']	= 'http://www.gracefoodsonline.com/';
-$config['base_url'] = 'http://localhost/gracefoods/';
+$config['base_url'] = '';
 
 /*
 |--------------------------------------------------------------------------
@@ -36,7 +35,7 @@ $config['index_page'] = '';
 |--------------------------------------------------------------------------
 |
 */
-$config['admin_email'] = 'admin@gracefoodsonline.com';
+$config['admin_email'] = '';
 
 /*
 |--------------------------------------------------------------------------
@@ -44,7 +43,7 @@ $config['admin_email'] = 'admin@gracefoodsonline.com';
 |--------------------------------------------------------------------------
 |
 */
-$config['bot_email'] = 'noreply@gracefoodsonline.com';
+$config['bot_email'] = '';
 
 /*
 |--------------------------------------------------------------------------
@@ -54,7 +53,7 @@ $config['bot_email'] = 'noreply@gracefoodsonline.com';
 | This can't be changed or deleted or else no way to verify user passwords.
 |
 */
-$config['salt'] = 'K~x<@%%?';
+$config['salt'] = '';
 
 /*
 |--------------------------------------------------------------------------
@@ -253,7 +252,7 @@ $config['cache_path'] = '';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = 'gyjthdjg.kghjm1231241234123^&%$#%^&*(f';
+$config['encryption_key'] = '';
 
 /*
 |--------------------------------------------------------------------------
@@ -273,7 +272,7 @@ $config['encryption_key'] = 'gyjthdjg.kghjm1231241234123^&%$#%^&*(f';
 | 'sess_time_to_update'		= how many seconds between CI refreshing Session Information
 |
 */
-$config['sess_cookie_name']		= 'c8c08d2747ec65f289e9eaf2b9d4e4f1';
+$config['sess_cookie_name']		= '';
 $config['sess_expiration']		= 7200;
 $config['sess_expire_on_close']	= FALSE;
 $config['sess_encrypt_cookie']	= TRUE;
