@@ -1,0 +1,302 @@
+/*YOUR CUSTOM STYLES*/
+a,
+.text-color,
+.btn-ghost.btn-primary,
+.comment .comment-review-rate,
+.nav-tabs.nav-stacked.nav-coupon-category > li > a:hover,
+.product-info-price,
+.i-check.i-check-stroke.checked:before,
+ul.pagination li a,
+ul.pagination li a:hover,
+.btn-white,
+.nav-pills.nav-stacked.nav-arrow > li a:hover,
+.countdown.countdown-inline > div:first-child span.count,
+.countdown.countdown-inline > div:first-child span.title {
+  color: #56ad48;
+}
+a:hover {
+  color: #458a3a;
+}
+.post .post-inner,
+.btn-ghost.btn-primary,
+.fotorama__thumb-border,
+.i-check.hover,
+.i-radio.hover,
+.i-check.checked,
+.i-radio.checked,
+footer.main,
+.testimonial-color .testimonial-inner {
+  border-color: #56ad48;
+}
+header.main-color .flexnav li a:hover,
+.btn-primary:hover,
+.team-member .team-member-social > li .fa:hover {
+  background-color: #458a3a;
+}
+header.main-white .flexnav > li.active > a,
+header.main-white .flexnav > li.active > a:hover,
+.btn-primary,
+.btn-ghost.btn-primary:hover,
+.product-quick-view .fa:hover,
+.nav-tabs.nav-stacked.nav-coupon-category > li > a:hover span,
+.i-check.checked,
+.i-radio.checked,
+.irs-slider,
+header.main.main-color,
+.header-search-bar button,
+ul.pagination li.active a,
+ul.pagination li.active a:hover,
+.team-member .team-member-social > li .fa,
+.owl-controls .owl-buttons div:hover,
+.search-area-white .search-btn,
+.search-area,
+.flexnav li.active > a,
+.flexnav li.active > a:hover,
+.box-icon,
+.nav-tabs.nav-stacked.nav-coupon-category > li > a:hover .fa,
+.nav-tabs.nav-stacked.nav-coupon-category > .active > a,
+.nav-tabs.nav-stacked.nav-coupon-category > .active > a:hover,
+.nav-tabs.nav-stacked.nav-coupon-category > .active > a:before,
+.nav-tabs.nav-stacked.nav-coupon-category > li.active > a .fa,
+.tabbable >.nav li.active a,
+.dropcap-color:first-letter,
+.nav-pills.nav-stacked.nav-arrow > li.active a,
+.nav-pills.nav-stacked.nav-arrow > li.active a:after,
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover,
+.testimonial-color .testimonial-inner,
+.hover-img .hover-icon:before,
+.hover-img >.hover-title,
+.hover-img .hover-inner,
+.owl-controls .owl-page span,
+.carousel .carousel-control,
+.flexnav-menu-button,
+.touch-button,
+.mfp-dialog .dialog-icon,
+.tags-list > li > a {
+  background-color: #56ad48;
+}
+.list-group-item.active a, .list-group-item.active:focus a, .list-group-item.active:hover a{
+    color: #fff;
+}
+.testimonial-color .testimonial-inner:after {
+  border-color: #56ad48 transparent transparent transparent;
+}
+.flexnav li.active > a {
+  border-color: #56ad48 !important;
+}
+.btn-primary,
+ul.pagination li.active a,
+ul.pagination li.active a:hover,
+.nav-tabs.nav-stacked.nav-coupon-category > .active > a .fa,
+.nav-pills.nav-stacked.nav-arrow > li.active a {
+  border-color: #4d9c41;
+}
+.btn-primary:hover {
+  border-color: #458a3a;
+}
+.touch-button.active,
+.tags-list > li > a:hover {
+  background-color: #49933d;
+}
+.search-area-white .search-btn {
+  border-color: #49933d;
+}
+.product-thumb .icon-list-rating {
+  color: #75c169;
+}
+.product-thumb .product-price {
+  background-color: #51b540;
+}
+.product-banner {
+  background-color: #22451d;
+}
+.address-box:hover .address-box-remove:hover,
+.address-box:hover .address-box-edit:hover,
+.address-box:hover .address-box-new-icon,
+.team-member .team-member-social > li .fa,
+.search-area label .fa,
+.box-icon:hover {
+  background-color: #458a3a;
+}
+.owl-controls .owl-buttons div:hover {
+  box-shadow: 0 0 0 1px #56ad48;
+}
+.btn-ghost {
+  background: none;
+}
+.tabbable >.nav li.active .fa {
+  background: #3c7932;
+}
+.thumb-list > li .thumb-list-item-caption .icon-list-rating {
+  color: #75c169;
+}
+.form-control:focus {
+  border-color: #64b957;
+}
+
+.badge{
+  position:absolute;
+  top:6px;
+  left:21px;
+  background:#e5493a;
+  color:#fff;
+  font-size:11px;
+  line-height:17px;
+  width:17px;
+  display:block;
+  padding:0;
+  text-align:center;
+}
+
+/*Alert message*/
+/* ------------------------------------------*/
+.alert.alert-success {
+  background: #a6b746;
+  color: #ffffff; 
+}
+
+.alert.alert-info {
+  background: #4696b7;
+  color: #ffffff; 
+}
+
+.alert.alert-warning {
+  background: #e0b346;
+  color: #ffffff; 
+}
+
+.alert.alert-error {
+  background: #da3a3a;
+  color: #ffffff; 
+}
+
+.alert .close {
+  color: #ffffff; 
+  opacity: 0.8;
+}
+
+.alert{
+  padding: 10px;
+}
+
+#the-new, #quantadd2, #quantadd3, 
+#quantadd4, #quantadd5, #pricehide, #showchng_pic {
+  display: none;
+}
+
+.-bank-acct > span {
+     display: inline-block;
+     vertical-align: top;
+     margin: 4px 0px;
+ }
+
+.-bank-acct > span:first-child {
+    max-width: 20%;
+    padding-top: 5px;
+}
+
+.-bank-acct > span:last-child {
+    max-width: 75%;
+    font-size: 13px !important;
+}
+
+.-bank-acct > span img {
+    height: 40px !important;
+}
+
+
+/*Vertical Steps*/
+.list-group.vertical-steps{
+  padding-left: 10px;
+}
+
+.list-group.vertical-steps .list-group-item{
+  border: none;
+  border-left: 3px solid #ece5dd;
+  box-sizing: border-box;
+  border-radius: 0;
+  counter-increment: step-counter;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+
+.list-group.vertical-steps .list-group-item.active{
+  background-color: transparent;
+  color: inherit;
+}
+
+.list-group.vertical-steps .list-group-item:last-child{
+  border-left: 3px solid transparent;
+  padding-bottom: 0;
+}
+
+.list-group.vertical-steps .list-group-item::before{
+  border-radius: 50%;
+  background-color: #ece5dd;
+  color: #555;
+  content: counter(step-counter);
+  display: inline-block;
+  float: left;
+  height: 50px;
+  line-height: 50px;
+  margin-left: -46px;
+  text-align: center;
+  width: 50px;
+}
+
+.list-group.vertical-steps .list-group-item span,
+.list-group.vertical-steps .list-group-item a{
+  display: block;
+  overflow: hidden;
+  padding-top: 2px;
+}
+
+/*Active/ Completed States*/
+.list-group.vertical-steps .list-group-item.active::before{
+  background-color: #56ad48;
+  color: #fff;
+}
+
+.list-group.vertical-steps .list-group-item.completed{
+  border-left: 3px solid #56ad48;
+}
+
+.list-group.vertical-steps .list-group-item.completed::before{
+  background-color: #56ad48;
+  color: #fff;
+}
+
+.list-group.vertical-steps .list-group-item.completed:last-child{
+  border-left: 3px solid transparent;
+}
+
+
+/*End of Vertical Steps*/
+
+
+
+.bs-wizard {margin-bottom: 40px;}
+
+/*Form Wizard*/
+.bs-wizard {border-bottom: solid 1px #e0e0e0; padding: 0 0 10px 0;}
+.bs-wizard > .bs-wizard-step {padding: 0; position: relative;}
+.bs-wizard > .bs-wizard-step + .bs-wizard-step {}
+.bs-wizard > .bs-wizard-step .bs-wizard-stepnum {color: #595959; font-size: 16px; margin-bottom: 5px;}
+.bs-wizard > .bs-wizard-step .bs-wizard-info {color: #999; font-size: 14px;}
+.bs-wizard > .bs-wizard-step > .bs-wizard-dot {position: absolute; width: 30px; height: 30px; display: block; background: #b3daad; top: 45px; left: 50%; margin-top: -15px; margin-left: -15px; border-radius: 50%;} 
+.bs-wizard > .bs-wizard-step > .bs-wizard-dot:after {content: ' '; width: 14px; height: 14px; background: #56ad48; border-radius: 50px; position: absolute; top: 8px; left: 8px; } 
+.bs-wizard > .bs-wizard-step > .progress {position: relative; border-radius: 0px; height: 8px; box-shadow: none; margin: 20px 0;}
+.bs-wizard > .bs-wizard-step > .progress > .progress-bar {width:0px; box-shadow: none; background: #b3daad;}
+.bs-wizard > .bs-wizard-step.complete > .progress > .progress-bar {width:100%;}
+.bs-wizard > .bs-wizard-step.active > .progress > .progress-bar {width:50%;}
+.bs-wizard > .bs-wizard-step:first-child.active > .progress > .progress-bar {width:0%;}
+.bs-wizard > .bs-wizard-step:last-child.active > .progress > .progress-bar {width: 100%;}
+.bs-wizard > .bs-wizard-step.disabled > .bs-wizard-dot {background-color: #f5f5f5;}
+.bs-wizard > .bs-wizard-step.disabled > .bs-wizard-dot:after {opacity: 0;}
+.bs-wizard > .bs-wizard-step:first-child  > .progress {left: 50%; width: 50%;}
+.bs-wizard > .bs-wizard-step:last-child  > .progress {width: 50%;}
+.bs-wizard > .bs-wizard-step.disabled a.bs-wizard-dot{ pointer-events: none; }
+/*END Form Wizard*/
+

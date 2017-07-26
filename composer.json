@@ -1,0 +1,7 @@
+{
+    "require": {
+        "facebook/graph-sdk": "^5.3",
+        "mabiola/paystack-php-lib" : "^0.1",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
